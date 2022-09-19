@@ -1,0 +1,21 @@
+Name of Quantlet: 'HW1_311707020_Draw a bird with big mouth (or called Toucan)'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Use complex numbers as parameters to draw a bird with big mouth (or called Toucan).'
+Submitted:  '16 Sep 2022'
+
+Keywords: 
+- 'Engineering Mathematics'
+- 'Complex analysis'
+- 'Fourier coordinate expansion,'
+- 'Fourier Transform'
+- 'Python syntax to specify shapes'
+- 'Complex parameters'
+
+Output: 
+- "Inyu's pet bird with big mouth (or called Toucan).png"
+
+Author: 
+- 'Wolfgang Karl Härdle'
+- 'Ying-Yu Chen'
