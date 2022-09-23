@@ -1,0 +1,27 @@
+HW2 - Optional HW1
+
+
+ 
+
+(2) [Optional] HW2.1: Word distribution- song
+
+Description: Please choose any songs and extract the words from the song. Then, make the word cloud to discover which word used the most in the song.
+
+**You can refer to Courselet (means handout, Professor called it Courselet)- LDA & DTM p.5-7
+
+
+
+Note: 
+
+a) As for file naming, remember to name your file in this format: “HW1_311707001(your student ID)_Henry(SelfDefinedName) 
+
+b) Upload your Homework to GitHub, not on E3:)
+
+ 
+
+Feel free to ask me if you have any questions.
+
+ 
+
+Zoe
+

@@ -1,0 +1,26 @@
+HW2 - Optional HW2
+
+
+
+(3) [Optional] HW2.2: Word frequency plots- speech
+
+Description: Please choose any text of speech. Then, draw the word frequency plots to discover which word has the highest frequency in this speech
+
+**You can refer to Courselet- Web scraping and word frequency p.8
+
+ 
+
+Note: 
+
+a) As for file naming, remember to name your file in this format: “HW1_311707001(your student ID)_Henry(SelfDefinedName) 
+
+b) Upload your Homework to GitHub, not on E3:)
+
+ 
+
+Feel free to ask me if you have any questions.
+
+ 
+
+Zoe
+
