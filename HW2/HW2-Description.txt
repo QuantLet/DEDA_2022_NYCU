@@ -1,0 +1,31 @@
+
+HW2
+
+
+(1)[Mandatory]HW2: Try web scraping with Taiwan’s bike dataset
+
+
+Description: Please use Taiwan’s bike dataset to draw scatter plot. You can decide which region, which kind of bike (the common one in Taiwan is Ubike) and the objective of the analysis.
+
+Here are some examples:
+
+Draw the scatter plot among the number of bikes in Xinbei Citu
+
+Map the u-bike station in Taipei with the number of u-bike left at that station
+
+ 
+
+Note: 
+
+a) As for file naming, remember to name your file in this format: “HW1_311707001(your student ID)_Henry(SelfDefinedName) 
+
+b) Upload your Homework to GitHub, not on E3:)
+
+ 
+
+Feel free to ask me if you have any questions.
+
+ 
+
+Zoe
+
