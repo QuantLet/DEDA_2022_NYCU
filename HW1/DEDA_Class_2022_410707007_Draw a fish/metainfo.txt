@@ -10,7 +10,6 @@ Keywords:
 - 'Fish'
 - 'Spyder'
 - 'Fourier coordinate expansion'
-- 'Fourier Transform'
 - 'Complex Parameter'
 - 'ffpmg'
 
