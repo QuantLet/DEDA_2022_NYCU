@@ -1,0 +1,20 @@
+Name of Quantlet: 'HW1_311712023_Buris_Animal'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Use complex numbers as parameters to fit a Animal. Creates an MP4 file of the nodding doggy.'
+
+Submitted: '28 Sep 2022'
+
+Keywords:
+- 'Complex analysis'
+- 'Fourier Transform'
+- 'Nodding doggy'
+- 'Elephant Trunk Wiggling'
+- 'Fitting Elephant'
+
+Output:
+- 'HW1_311712023_Buris_Animal.png'
+
+Author:
+- 'Buris Muangklang (Buris Muangklang)'
