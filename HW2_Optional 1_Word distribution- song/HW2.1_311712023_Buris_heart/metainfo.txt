@@ -11,3 +11,5 @@ See also: LDA-DTM_NASDAQ, LDA-DTM_Shakespeare, LDA-DTM_Speech_Xijinping
 Author: Buris Muangklang
 
 Submitted:  28 SEP 2022
+
+Output: wordcloud_heart.png, heatmap lover song.png
