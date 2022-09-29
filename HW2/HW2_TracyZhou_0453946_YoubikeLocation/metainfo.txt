@@ -1,0 +1,21 @@
+Name of Quantlet: 'HW2_TracyZhou_0453946_YoubikeLocation'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Find the nearest avaiable youbike in taipei.'
+
+Submitted: '22 Sep 2022'
+
+Keywords:
+- 'Complex analysis'
+- 'Fourier Transform'
+- 'Mathematics'
+- 'Function'
+- 'Map generating'
+
+Output:
+- 'HW2_TracyZhou_0453946_YoubikeLocation.png'
+- 'HW2_TracyZhou_0453946_YoubikeLocation.html'
+
+Author:
+- 'Tracy Zhou'
