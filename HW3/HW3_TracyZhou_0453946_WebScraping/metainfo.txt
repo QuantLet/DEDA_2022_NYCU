@@ -1,0 +1,20 @@
+Name of Quantlet : HW3_TracyZhou_0453946_WebScraping
+Published in : DEDA_2022_NYCU
+Description :
+- Demonstrate getting data from webpage API and scraping the speech of Jerome Powell from federalreserve.gov
+- Introducing functional programming and object-oriented programming
+Keywords :
+- Python
+- Web Data
+- Json
+- selenium
+- sentiment
+OutPut :
+- 'Output_Speech_by_JeromePowell.txt'
+- 'Output_score.txt'
+- 'Output_LDAmodel.txt'
+- 'plot_WordFrequencyOverview.png'
+- 'plot_MostFrequentWords.png'
+- 'plot_Wordcloud.png'
+Submitted:  '28 Sep 2022'
+Author : Tracy Zhou
