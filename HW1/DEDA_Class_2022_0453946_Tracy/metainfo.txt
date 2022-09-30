@@ -1,10 +1,10 @@
-Name of Quantlet: 'DEDA_Class_2022_0453946_Tracy_flatfish'
+Name of Quantlet: DEDA_Class_2022_0453946_Tracy_flatfish
 
-Published in: 'DEDA class 2022'
+Published in: DEDA_2022_NYCU
 
-Description: 'Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.'
+Description: Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.
 
-Submitted: '22 Sep 2022'
+Submitted: 22 Sep 2022
 
 Keywords:
 - 'Complex analysis'
@@ -17,5 +17,4 @@ Output:
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.png'
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4'
 
-Author:
-- 'Tracy Zhou'
+Author: Tracy Zhou
