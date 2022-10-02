@@ -13,6 +13,9 @@ Keywords:
 - 'Stopwords'
 - 'Word frequency'
 
+Input:
+- 'lyrics.txt'
+
 Output:
 - 'wordcloud.png'
 
