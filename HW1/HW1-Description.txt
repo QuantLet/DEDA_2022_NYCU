@@ -1,6 +1,10 @@
 Hi everyone,
 
-Professor Härdle showed how to draw a cute elephant in class today. For assignment 1, you need to draw any animals via python. You can adjust any code or parameter in the example. You can refer to handout Unit1 p.28~44 if you have no idea.
+Professor Härdle showed how to draw a cute elephant in class today. 
+
+For assignment 1: 
+1. you need to draw any animals via python. You can adjust any code or parameter in the example. You can refer to handout Unit1 p.28~44 if you have no idea.
+2. remember to also upload the video (mp4)/animation of the animal you draw.
 
 
 As for uploading Homework, please upload your homework on Github(the file named "DEDA_2022_NYCU"), not on E3. Remember to read handout-QuantLet carefully before handing your homework. TA Jane will upload an instruction video later on E3.
