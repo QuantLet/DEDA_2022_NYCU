@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  6 19:10:18 2018
-
-@author: verani
-"""
 #Please install these modules before you run the code 
 #!pip install wordcloud
 #!pip install nltk
