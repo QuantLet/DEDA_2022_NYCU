@@ -7,7 +7,6 @@ Description : Performs a PCA and a cluster analysis for 20 randomly chosen bonds
 Keywords :
 - cluster-analysis
 - graphical representation
-- distance
 - dendrogram
 - data visualization
 - principal-components
