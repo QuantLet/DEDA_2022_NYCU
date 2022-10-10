@@ -1,0 +1,24 @@
+Name of Quantlet : DEDA_BondCluster
+
+Published in : DEDA_2022_NYCU
+
+Description : Performs a PCA and a cluster analysis for 20 randomly chosen bonds from FISD dataset.
+
+Keywords :
+- cluster-analysis
+- graphical representation
+- distance
+- dendrogram
+- data visualization
+- principal-components
+
+Datafile : bond.csv
+
+OutPut :
+- 'plot_Bond_Data.png'
+- 'plot_Bond_PCA.png'
+- 'plot_Bond_WardD.png'
+
+Submitted:  '10 Oct 2022'
+
+Author : Tracy Zhou
