@@ -1,0 +1,22 @@
+Name of Quantlet: 'DEDA_Class_2022_311707016_JingXun'
+
+Published in: 'DEDA class 2022'
+
+Description: 'After getting the lyrics of a song, make a wordcloud to discover which kind of words used the most in the song.'
+
+Submitted: '02 Oct 2022'
+
+Keywords:
+- 'WordCloud'
+- 'Song'
+- 'Lyrics'
+- 'Stopwords'
+- 'Word frequency'
+
+Input:
+- 'lyrics.txt'
+
+Output:
+- 'wordcloud.png'
+
+Author: 'Jing-Xun Lin'
