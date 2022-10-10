@@ -1,0 +1,9 @@
+HW5_Cluster data
+
+Hi students,
+
+Please utilize any methods of clustering(such as: Hierarchical clustering, spectral clustering) and draw any plot or diagram to show your result. You can use any dataset you prefer.
+
+Reference:
+- Hierarchical Clustering.pdf
+- Spectral Clustering.pdf Spectral Clustering.pdf
