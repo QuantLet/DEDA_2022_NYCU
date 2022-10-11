@@ -9,6 +9,11 @@ Keywords :
 - Json
 - selenium
 - sentiment
-OutPut :
-Submitted:  '9 Oct 2022'
+Input :
+- Score_Buris_SpeechTrump.txt
+- Output_Buris_TrumpSpeech.txt
+Output :
+- overview_Buris_TrumpSpeech.png
+- plot_Buris_TrumpSpeech.png
+Submitted:  '11 Oct 2022'
 Author : Buris Muangklang
