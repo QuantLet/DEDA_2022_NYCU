@@ -1,0 +1,11 @@
+Hi everyone,
+
+This week, please do the quizzes for Spectral Clustering and Boosting(mandatory).
+
+Beside, Professor assign optional HW for doing the credit reform with PY.
+
+
+
+Warm regards,
+
+Zoe
