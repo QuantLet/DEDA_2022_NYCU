@@ -1,0 +1,1 @@
+{'Positive': 142, 'Negative': 118, 'Polarity': 0.09230769195266272, 'Subjectivity': 0.18571428558163264}

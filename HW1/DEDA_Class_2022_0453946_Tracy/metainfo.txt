@@ -12,6 +12,8 @@ Keywords:
 - 'shaking falt fish'
 - 'Mathematics'
 - 'Function'
+- 'NYCU'
+- 'National Yang Ming Chiao Tung University Hsinchu, Taiwan'
 
 Output:
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.png'

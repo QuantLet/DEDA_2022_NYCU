@@ -1,0 +1,21 @@
+Name of Quantlet: 'DEDA_Class_2022_410707007_Adele-Hello'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Using LDA to learn the topic representation of a song and word distribution of the song'
+
+Submitted:  '4 Oct 2022'
+
+Keywords: 
+- 'cat'
+- 'Word Cloud'
+- 'Adele - Hello'
+- 'Stop Words'
+- 'Word distribution'
+
+Output: 
+- "DEDA_Class_2022_410707007_Adele-Hello_a.png"
+- "DEDA_Class_2022_410707007_Adele-Hello_b.png"
+
+Author: 
+- 'TZU-YING TUNG'
