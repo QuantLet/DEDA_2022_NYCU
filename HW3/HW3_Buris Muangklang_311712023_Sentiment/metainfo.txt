@@ -9,7 +9,7 @@ Keywords :
 - Json
 - selenium
 - sentiment
-Input :
+Datafile :
 - Score_Buris_SpeechTrump.txt
 - Output_Buris_TrumpSpeech.txt
 Output :
