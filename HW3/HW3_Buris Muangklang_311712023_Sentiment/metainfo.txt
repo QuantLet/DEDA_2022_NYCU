@@ -1,0 +1,19 @@
+Name of Quantlet : HW3_Buris Muangklang_311712023_Sentiment
+Published in : DEDA_2022_NYCU
+Description :
+- Demonstrate getting data from webpage API and scraping the speech of Donald Trump from CNN
+- Introducing functional programming and object-oriented programming
+Keywords :
+- Python
+- Web Data
+- Json
+- selenium
+- sentiment
+Datafile :
+- Score_Buris_SpeechTrump.txt
+- Output_Buris_TrumpSpeech.txt
+Output :
+- overview_Buris_TrumpSpeech.png
+- plot_Buris_TrumpSpeech.png
+Submitted:  '11 Oct 2022'
+Author : Buris Muangklang
