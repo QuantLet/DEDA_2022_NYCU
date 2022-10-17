@@ -1,6 +1,6 @@
 Name of Quantlet : HW2_TracyZhou_0453946_YoubikeLocation
 
-Published in : DEDA class 2022
+Published in : DEDA_2022_NYCU
 
 Submitted: 22 Sep 2022
 
