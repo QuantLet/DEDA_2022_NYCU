@@ -14,6 +14,9 @@ Keywords :
 - Folium
 Output:
 -'Scatter Chart3.png'
+-'Maps of New Taipei City's dataset_1.png'
+-'Maps of New Taipei City's dataset_2.png'
+-'Maps of New Taipei City's dataset_3.png'
 Author: 
 - 'Wolfgang Karl Härdle'
 - 'Ying-Yu Chen'
