@@ -1,0 +1,21 @@
+Name of Quantlet: 'DEDA_HW1_311707034_DavidJheng'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Use complex numbers as parameters to fit a doggy that nods its head. Creates an MP4 file of the nodding doggy.'
+
+Submitted: '15 Sep 2022'
+
+Keywords:
+- 'Complex analysis'
+- 'Fourier Transform'
+- 'Nodding doggy'
+- 'Elephant Trunk Wiggling'
+- 'Fitting Elephant'
+
+OutPut:
+- 'DEDA_Class_2022_311707034_Nodding Doggy.png'
+- 'DEDA_Class_2022_311707034_Nodding Doggy.mp4'
+
+Author:
+- 'David Jheng'
