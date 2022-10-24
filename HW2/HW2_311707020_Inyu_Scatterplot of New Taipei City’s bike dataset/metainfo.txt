@@ -13,7 +13,7 @@ Keywords :
 - scatterplot
 - seaborn 
 Output:
--'Scatter Chart.png'
+- 'Scatter Chart.png'
 Author: 
 - 'Wolfgang Karl Härdle'
 - 'Ying-Yu Chen'
