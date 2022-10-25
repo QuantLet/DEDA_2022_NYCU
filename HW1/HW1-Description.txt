@@ -1,1 +1,29 @@
+# Draw any animals
+
+Hi everyone,
+
+Professor Härdle showed how to draw a cute elephant in class today. 
+
+For assignment 1: 
+1. you need to draw any animals via python. You can adjust any code or parameter in the example. You can refer to handout Unit1 p.28~44 if you have no idea.
+2. remember to also upload the video (mp4)/animation of the animal you draw.
+
+
+As for uploading Homework, please upload your homework on Github(the file named "DEDA_2022_NYCU"), not on E3. Remember to read handout-QuantLet carefully before handing your homework. TA Jane will upload an instruction video later on E3.
+
+Link for QuantLet: https://quantinar.com/course/98/quantlet 
+
+
+
+Extra points for Homework: If you are willing to present your code and share any idea with us in the next class(Professor will ask if anyone wants to share with), you will get extra 5 points in the homework grading.
+
+
+
+Feel free to ask if you have any questions:)
+
+Hope you have an interesting learning journey on Python
+
+
+
+TA Zoe
 

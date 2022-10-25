@@ -1,0 +1,18 @@
+Name of Quantlet: 'DEDA_CountrySong_Tracy_0453946'
+Published in: 'DEDA class 2022'
+Description: 'Compare three Country Songs with their frequency words and their topics (LDA)'
+Submitted:  '28 Sep 2022'
+Keywords: 
+- 'LDA' 
+- 'Word cloud,'
+- 'Topic modelling'
+- 'Country Song'
+- 'Word frequency'
+Input files:
+- 'COUNTRY SONG.txt'
+- 'guitar.png'
+Output:
+- 'Output_total.txt'
+- 'plot_wordcloud_guitar.png'
+- 'plot_heatmap_countrysong.png'
+Author: 'Tracy Zhou'

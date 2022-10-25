@@ -1,0 +1,9 @@
+HW3_Sentimental Analysis
+
+Hi everyone,
+
+This week, please find any speech online and then do sentimental analysis. Also, please use table to show your result(shown in attachment - " Web Scraping and Word Frequency.pdf" p.17).
+
+Feel free to ask if you have any questions.
+
+

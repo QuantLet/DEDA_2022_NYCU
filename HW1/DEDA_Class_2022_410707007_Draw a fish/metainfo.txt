@@ -1,0 +1,21 @@
+Name of Quantlet: 'DEDA_Class_2022_410707007_Draw a fish'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Using complex number and Spyder to draw a fish, and to generate a PNG and a MP4 file.'
+
+Submitted:  '24 Sep 2022'
+
+Keywords: 
+- 'Fish'
+- 'Spyder'
+- 'Fourier coordinate expansion'
+- 'Complex Parameter'
+- 'ffpmg'
+
+Output: 
+- "DEDA_Class_2022_410707007_Draw a fish.mp4"
+- "DEDA_Class_2022_410707007_Draw a fish.png"
+
+Author: 
+- 'TZU-YING TUNG'
