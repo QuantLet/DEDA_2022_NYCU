@@ -15,7 +15,7 @@ Keywords:
 
 Datafile: 'Mall_Customers.csv'
 
-OutPut:
+Output:
 - 'Customers information (before cluster).png'
 - 'Displot of Age, annual income and spending score.png'
 - 'heatmap.png'
