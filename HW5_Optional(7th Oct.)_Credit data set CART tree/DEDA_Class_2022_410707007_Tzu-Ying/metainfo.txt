@@ -6,6 +6,8 @@ Description: 'Using CART and Random Forest to predict the stock price direction 
 
 Submitted: '22 Oct 2022'
 
+Datafile: 'data.csv'
+
 Keywords: 
 - 'CART'
 - 'Random Forest'
