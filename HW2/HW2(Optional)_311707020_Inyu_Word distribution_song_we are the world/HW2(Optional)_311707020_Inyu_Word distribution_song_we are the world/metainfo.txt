@@ -12,7 +12,7 @@ Keywords :
 - 'cleantext'
 - 'worldcloud'
 
-Data file:
+Datafile:
 - 'earth.png'
 - 'we are the world.txt'
 
