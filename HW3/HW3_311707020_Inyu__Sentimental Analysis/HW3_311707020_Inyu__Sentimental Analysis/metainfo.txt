@@ -1,4 +1,4 @@
-Name of Quantlet: 'HW3_311707020_Inyu__Sentimental Analysis'
+Name of Quantlet: 'HW3_311707020_Inyu_Sentimental Analysis'
 
 Published in: 'DEDA class 2022'
 
