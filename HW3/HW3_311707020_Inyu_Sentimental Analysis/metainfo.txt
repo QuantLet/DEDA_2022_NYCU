@@ -2,7 +2,7 @@ Name of Quantlet: 'HW3_311707020_Inyu_Sentimental Analysis'
 
 Published in: 'DEDA class 2022'
 
-Description: 'The files contain code for Python Webscraping and Sentiment Analysis. Analysis is performed on the speech, named as I Have A Dream — by Martin Luther King, Jr..'
+Description: The files contain code for Python Webscraping and Sentiment Analysis by using Martin Luther King, Jr.'s speech "I Have A Dream" .
 
 Submitted:  '7 Oct 2022'
 
