@@ -13,6 +13,9 @@ Keywords:
 - 'Tree'
 - 'Insolvency'
 
+Datafile:
+- 'data_sample.csv'
+
 Output:
 - 'decision_tree_creditreform.png'
 
