@@ -1,0 +1,16 @@
+Name of Quantlet : DEDA_311709815_Youcef_Clustering
+Published in : DEDA class 2022
+Description : Performs a hierarchical clustering to assess the debt level of each country in the euro area.
+Keywords :
+- cluster-analysis
+- graphical representation
+- distance
+- dendrogram
+- data visualization
+- principal-components
+Datafile : 'econ-gen-poids-dette-pub-ue-2.xlsx'
+OutPut :
+- 'Public debts in the european union in 2021.png'
+- 'Cluster GDP to debt level ratio.png'
+Submitted:  '31 Oct 2022'
+Author : 'Youcef Tahari'
