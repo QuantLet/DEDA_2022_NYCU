@@ -1,1 +1,12 @@
+HW9
+
+1. Please practice "UMAP" on your Project data; the code at QuantLet is at: 
+    https://github.com/QuantLet/UMAP
+    (Note: if your Project data are not suitable for UMAP/Dimension Reduction, you can try other data of interest)
+
+2. Bonus (+5) for  either one of the following options:
+  - Please do at least ONE Quiz for "LSTM" 
+  - Please do at least ONE Quiz for "UMAP" 
+  - Practice LSTM codes on QuantLet: 
+    https://github.com/QuantLet/DeepLearning/tree/master/ANNSineWave
 
