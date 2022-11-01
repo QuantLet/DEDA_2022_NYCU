@@ -1,0 +1,22 @@
+Name of Quantlet: 'HW2_311707020_Inyu__Scatterplot and Maps of New Taipei City’s bike dataset'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Draw the scatter plot and maps by using Folium package with the number of available u-bike in the districts in New Taipei City.'
+
+Submitted:  First'26 Sep 2022' (Only scatter plot)
+            Second'21 Oct 2022'(To make the scatter plot clearer and draw the heatmap by using folium package)
+Keywords : 
+- u-bike in New Taipei City
+- add_subplot
+- json
+- scatterplot
+- Folium
+Output:
+-'Scatter Chart3.png'
+-'Maps of New Taipei City's dataset_1.png'
+-'Maps of New Taipei City's dataset_2.png'
+-'Maps of New Taipei City's dataset_3.png'
+Author: 
+- 'Wolfgang Karl Härdle'
+- 'Ying-Yu Chen'
