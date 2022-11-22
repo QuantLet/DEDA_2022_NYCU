@@ -1,0 +1,19 @@
+Name of Quantlet: 'Fraud_Detection_UMAP'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Using UMAP  to analysis the pattern of fraudulent activities.'
+Submitted: '22 Nov 2022'
+
+Keywords: 
+- 'Fraud'
+- 'UMAP'
+- 'Money laundering'
+- 'Machine learning'
+- 'StandardScaler'
+
+
+Author: 
+- 'Jing-Xun Lin'
+- 'David Jheng'
+- 'Ying-Yu Chen'

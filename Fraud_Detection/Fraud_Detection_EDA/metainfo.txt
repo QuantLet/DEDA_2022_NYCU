@@ -1,0 +1,19 @@
+Name of Quantlet: 'Fraud_Detection_EDA'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Exploratory analysis of data to extract the pattern of fraudulent activities.'
+Submitted: '22 Nov 2022'
+
+Keywords: 
+- 'Fraud'
+- 'EDA'
+- 'Money laundering'
+- 'Machine learning'
+- 'OLS Regression'
+
+
+Author: 
+- 'Jing-Xun Lin'
+- 'David Jheng'
+- 'Ying-Yu Chen'
