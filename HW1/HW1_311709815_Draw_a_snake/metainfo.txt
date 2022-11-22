@@ -1,6 +1,20 @@
+Name of Quantlet: HW1_311709815_Draw_a_snake
+
 Published in : DEDA class 2022
+
 Description : Draw any animal using python 
+
+Keywords:
+- 'Complex analysis'
+- 'Fourier Transform'
+- 'Elephant Trunk Wiggling'
+- 'Fitting Elephant'
+- 'snake'
+
+
 Output :
-- Snake.png
+- snake.pnj.png
+
 Submitted:  '22 november 2022'
+
 Author : 'Youcef Tahari'
