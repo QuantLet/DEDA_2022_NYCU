@@ -16,8 +16,7 @@ Keywords :
 - map
 
 Output:
-- HW2_YoucefTahari_311709815_ubikes_ZhongshanDistrict.ipynb
-- bike_map.png
+- Bike_map.png
 - mymap.html
 
 Author : Youcef Tahari 
