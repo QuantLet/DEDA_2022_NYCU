@@ -1,0 +1,21 @@
+Name of Quantlet: 'Fraud_Detection_Model_Selection'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Use different models to correctly predict fraudulent and valid transactions.'
+Submitted: '22 Nov 2022'
+
+Keywords: 
+- 'Fraud'
+- 'Neural networks'
+- 'Random forest'
+- 'XGB trees'
+- 'Money laundering'
+- 'Machine learning'
+- 'StandardScaler'
+
+
+Author: 
+- 'Jing-Xun Lin'
+- 'David Jheng'
+- 'Ying-Yu Chen'
