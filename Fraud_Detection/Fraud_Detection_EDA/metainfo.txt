@@ -13,14 +13,13 @@ Keywords:
 - 'OLS Regression'
 
 Output:
-- 'fig01_corrplot.png'
-- 'fig02_fraud_count.png'
-- 'fig03_type_count.png'
-- 'fig04_type_count_fraud.png'
-- 'fig05_mean_amount_fraud.png'
-- 'fig06_mean_amount_type.png'
-- 'fig07_error_balance_scatter.png'
-- 'fig08_transaction_hour.png'
+- 'corrplot.png'
+- 'fraud_count.png'
+- 'type_count.png'
+- 'type_count_fraud.png'
+- 'mean_amount_fraud.png'
+- 'mean_amount_type.png'
+
 
 Author: 
 - 'Wolfgang Karl Härdle'
