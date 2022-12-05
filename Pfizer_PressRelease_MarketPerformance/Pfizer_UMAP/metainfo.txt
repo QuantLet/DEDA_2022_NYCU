@@ -2,7 +2,7 @@ Name of Quantlet : Pfizer_UMAP
 Published in : DEDA_2022_NYCU
 Description : 
 - Study the relationship between press release and market performance with the case of Pfizer during the pandemic.
-- Step 5: use UMAP to reduce dimension and cluster data
+- Step 5: use UMAP to reduce dimension and conduct clustering. (the input data is in the main folder)
 Keywords :
 - data visualization
 - dimensiuon reduction
