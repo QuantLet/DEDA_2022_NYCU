@@ -1,0 +1,27 @@
+Name of Quantlet : Pfizer_WebScraping
+Published in : DEDA_2022_NYCU
+Description : 
+- Study the relationship between press release and market performance with the case of Pfizer during the pandemic.
+- First step: web sscraping data from Pfizer website and yahoo finance, also the google trends for Pfizer.
+- Second step: calcualte the sentiment score of each press release.
+Keywords :
+- web scraping
+- yahoo finance
+- beautiful soup
+- sentiment analysis
+- stock price
+- google trends
+OutPut :
+- Pfizer_StockPrice.csv
+- Pfizer_story.csv
+- Pfizer_Story_sentiment.csv
+- Pfizer_Press.csv
+- Pfizer_Press_sentiment.csv
+- Pfizer_trends.csv
+- Pfizer_trends_week.csv
+Submitted:  '05 Dec 2022'
+Author : 
+- 'Tracy Zhou'
+- 'Youcef Tahari'
+- 'Buris Muangklang'
+- 'Wolfgang Karl Härdle'
