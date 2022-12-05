@@ -1,6 +1,8 @@
 Name of Quantlet : Pfizer_PressRelease_MarketPerformance
 Published in : DEDA_2022_NYCU
-Description : Study the relationship between press release and market performance with the case of Pfizer during the pandemic.
+Description : 
+- Study the relationship between press release and market performance with the case of Pfizer during the pandemic.
+- data is generated described in sub folders
 Keywords :
 - sentiment analysis
 - web scraping
@@ -9,25 +11,13 @@ Keywords :
 - data visualization
 - UMAP
 - Regression
-OutPut :
-- Pfizer_StockPrice.csv
-- Pfizer_story.csv
-- Pfizer_Story_sentiment.csv
-- Pfizer_Press.csv
-- Pfizer_Press_sentiment.csv
-- Pfizer_trends.csv
-- Pfizer_trends_week.csv
+Data:
 - Pfizer_data.csv
+OutPut :
 - Pfizer_fig1.png
 - Pfizer_fig2.png
 - Pfizer_fig3.png
 - Pfizer_fig4.png
-- Pfizer_Decision_Tree.png
-- Pfizer_RF_feature_importance.png
-- Pfizer_ROC_DecisionTree.png
-- Pfizer_ROC_RandomForest.png
-- Pfizer_umap.png
-- Pfizer_umap2.png
 Submitted:  '05 Dec 2022'
 Author : 
 - 'Tracy Zhou'
