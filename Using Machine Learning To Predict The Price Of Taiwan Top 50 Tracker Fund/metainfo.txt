@@ -20,11 +20,15 @@ Keywords:
 - 'Bayesian'
 - 'Support vector machine'
 - 'K-nearest neighbors'
+- 'Clustering'
 
 Output: 
 - "Important Analysis.png"
 - "single models results.png"
 - "stacking models results.png"
+- "data_view.png"
+- "Clustering_results_a.png"
+- "Clustering_results_b.png"
 
 Author: 
 - 'TZU-YING TUNG'
