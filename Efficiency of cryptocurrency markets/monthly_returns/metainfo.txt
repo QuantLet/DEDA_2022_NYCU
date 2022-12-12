@@ -1,0 +1,15 @@
+Name of Quantlet : monthly_returns
+Published in : DEDA_2022_NYCU
+Description : 
+- plot of monthly returns of BTC, ETH, BNB, XRP, ADA and CRIX
+Keywords :
+- Cryptocurrency
+- Time Series
+Input:
+- mrgraphicdata.csv
+OutPut :
+- plot
+- optional: m_returns.png
+Submitted:  '12 Dec 2022'
+Author : 
+- 'David Alexander Behrens'
