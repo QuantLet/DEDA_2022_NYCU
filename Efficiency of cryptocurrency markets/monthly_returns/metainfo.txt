@@ -9,7 +9,7 @@ Input:
 - mrgraphicdata.csv
 OutPut :
 - plot
-- optional: m_returns.png
+- optional: monthly_r.png
 Submitted:  '12 Dec 2022'
 Author : 
 - 'David Alexander Behrens'
