@@ -8,8 +8,7 @@ Keywords :
 Input:
 - CRIXgraphicdata.csv
 OutPut :
-- plot
-- optional: Crix.png
-Submitted:  '12 Dec 2022'
+- Crix.png
+Submitted:  '13 Dec 2022'
 Author : 
 - 'David Alexander Behrens'
