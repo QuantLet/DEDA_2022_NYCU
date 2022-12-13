@@ -6,12 +6,17 @@ Keywords :
 - Cryptocurrency
 - Time Series
 - Financial Markets
-- Data Analysis
+- Monthly Returns
 - Crix
+- Bitcoin
+- Ether
+- Binance Coin
+- Ripple
+- Cardano
 Datafile:
 - mrgraphicdata.csv
 Output :
 - monthly_r.png
-Submitted:  '12 Dec 2022'
+Submitted:  '13 Dec 2022'
 Author : 
 - 'David Alexander Behrens'
