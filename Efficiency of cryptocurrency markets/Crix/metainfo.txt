@@ -5,9 +5,12 @@ Description :
 Keywords :
 - Cryptocurrency
 - Time Series
-Input:
+- Crix
+- Financial Markets
+- Data Analysis
+Datafile:
 - CRIXgraphicdata.csv
-OutPut :
+Output :
 - Crix.png
 Submitted:  '13 Dec 2022'
 Author : 
