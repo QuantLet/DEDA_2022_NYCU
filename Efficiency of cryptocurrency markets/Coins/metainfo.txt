@@ -11,7 +11,7 @@ Keywords :
 - Binance Coin
 - Ripple
 - Cardano
-Input:
+Datafile:
 - CRIXgraphicdata.csv
 Output :
 - Coins.png
