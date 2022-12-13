@@ -9,7 +9,9 @@ Keywords :
 - GMM
 - CAPM
 - Momentum
-Input:
+- we need at least 5 keywords<-------------------
+
+Datafile:
 - ADA-USD.csv
 - BNB-USD.csv
 - BTC-USD.csv
@@ -17,8 +19,11 @@ Input:
 - XRP-USD.csv
 - PerformanceGraphExport.xls
 - interest_rate_us.csv
-OutPut :
+
+Output :
 - test results
+
 Submitted:  '12 Dec 2022'
+
 Author : 
 - 'David Alexander Behrens'
