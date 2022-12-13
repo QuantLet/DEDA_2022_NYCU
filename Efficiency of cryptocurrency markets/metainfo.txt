@@ -9,7 +9,8 @@ Keywords :
 - GMM
 - CAPM
 - Momentum
-Input:
+- Asset Pricing
+Datafile:
 - ADA-USD.csv
 - BNB-USD.csv
 - BTC-USD.csv
@@ -17,8 +18,10 @@ Input:
 - XRP-USD.csv
 - PerformanceGraphExport.xls
 - interest_rate_us.csv
-OutPut :
-- test results
-Submitted:  '12 Dec 2022'
+Output :
+- Crix.png
+- Coin.png
+- monthly_r.png
+Submitted:  '13 Dec 2022'
 Author : 
 - 'David Alexander Behrens'
