@@ -5,11 +5,16 @@ Description :
 Keywords :
 - Cryptocurrency
 - Time Series
-Input:
+- Financial Markets
+- Bitcoin
+- Ether
+- Binance Coin
+- Ripple
+- Cardano
+Datafile:
 - CRIXgraphicdata.csv
-OutPut :
-- plot
-- optional: Coins.png
-Submitted:  '12 Dec 2022'
+Output :
+- Coins.png
+Submitted:  '13 Dec 2022'
 Author : 
 - 'David Alexander Behrens'

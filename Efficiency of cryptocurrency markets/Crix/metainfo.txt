@@ -5,11 +5,13 @@ Description :
 Keywords :
 - Cryptocurrency
 - Time Series
-Input:
+- Crix
+- Financial Markets
+- Data Analysis
+Datafile:
 - CRIXgraphicdata.csv
-OutPut :
-- plot
-- optional: Crix.png
-Submitted:  '12 Dec 2022'
+Output :
+- Crix.png
+Submitted:  '13 Dec 2022'
 Author : 
 - 'David Alexander Behrens'

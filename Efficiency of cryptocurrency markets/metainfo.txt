@@ -1,15 +1,16 @@
-Name of Quantlet : Efficiency of cryptocurrency markets - A GMM-based analysis
+Name of Quantlet : Efficiency of cryptocurrency markets
 Published in : DEDA_2022_NYCU
 Description : 
 - Estimate CAPM coefficients using GMM
 - test inefficiencies (violation of moment conditions) with J-test
 - include a momentum factor in the analysis
+
 Keywords :
 - Cryptocurrency
 - GMM
 - CAPM
 - Momentum
-- we need at least 5 keywords<-------------------
+- Asset Pricing
 
 Datafile:
 - ADA-USD.csv
@@ -20,10 +21,14 @@ Datafile:
 - PerformanceGraphExport.xls
 - interest_rate_us.csv
 
-Output :
-- test results
 
-Submitted:  '12 Dec 2022'
+Output :
+- CRIX.png
+- Coins.png
+- monthly_r.png
+
+Submitted:  '13 Dec 2022'
+
 
 Author : 
 - 'David Alexander Behrens'
