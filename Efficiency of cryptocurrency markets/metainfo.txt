@@ -10,6 +10,8 @@ Keywords :
 - CAPM
 - Momentum
 - Asset Pricing
+
+
 Datafile:
 - ADA-USD.csv
 - BNB-USD.csv
@@ -18,10 +20,18 @@ Datafile:
 - XRP-USD.csv
 - PerformanceGraphExport.xls
 - interest_rate_us.csv
+
+
 Output :
 - Crix.png
 - Coin.png
 - monthly_r.png
+
 Submitted:  '13 Dec 2022'
+
+
+Submitted:  '12 Dec 2022'
+
+
 Author : 
 - 'David Alexander Behrens'
