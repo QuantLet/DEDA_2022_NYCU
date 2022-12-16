@@ -4,6 +4,6 @@ Description :
 - Quiz Spectral Clustering and Boosting
 Keywords :
 - Spectral Clustering and Boosting
-OutPut : NA
+
 Submitted:  '19 Nov 2022'
 Author : Buris Muangklang
