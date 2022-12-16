@@ -1,0 +1,4 @@
+HW7: 
+1. Do the Quizzes for LLE and GRFs. 
+2. Do the Quizzes for Spectral Clustering and Boosting, 
+3. Prepare your Mid Term presentation
