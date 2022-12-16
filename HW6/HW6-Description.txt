@@ -1,0 +1,4 @@
+HW6: 
+Do the Quizzes for Spectral Clustering and Boosting, 
+
+Optional HW : do the credit reform with PY
