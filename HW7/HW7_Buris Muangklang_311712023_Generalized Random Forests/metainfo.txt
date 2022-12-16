@@ -3,10 +3,11 @@ Published in : DEDA_2022_NYCU
 Description :
 - Generalized Random Forests (GRF)
 Keywords :
+- Generalized Random Forests
 - GRF
 - SC
 - MST
 - LLE
-OutPut : NA
+
 Submitted:  '19 Nov 2022'
 Author : Buris Muangklang
