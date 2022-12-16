@@ -9,7 +9,7 @@ Keywords :
 - data visualization
 - principal-components
 Datafile : 'mobile_os_usage-2009-2014.csv'
-OutPut :
+Output :
 - 'plot_Mobile Usage_Data.png'
 - 'plot_Mobile Usage_PCA.png'
 - 'plot_Mobile Usage_WardD.png'
