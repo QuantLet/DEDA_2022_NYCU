@@ -1,0 +1,23 @@
+Name of Quantlet: 'DEDA_Class_2022_HW8_311707034_DavidJheng'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Hierarchical clustering for customer data.'
+
+Submitted: '11 Jan 2023'
+
+Keywords:
+- 'Kalman Filter'
+- 'Stock price'
+- 'Return'
+- 'Prediction'
+
+Datafile: 'CRIX.csv'
+
+OutPut:
+- 'CRIXPrice_Kalman_0.03.gif'
+- 'CRIXPrice_Kalman.png'
+- 'CRIXPrice_Kalman_0.03.png'
+
+Author:
+- 'David Jheng'
