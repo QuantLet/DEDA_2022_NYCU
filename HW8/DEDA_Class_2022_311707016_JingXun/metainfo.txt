@@ -1,0 +1,23 @@
+Name of Quantlet: 'DEDA_Class_2022_311707016_JingXun'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Predicting the return by the CRIX data through Kalman filter in R.'
+
+Submitted: '11 Jan 2023'
+
+Keywords:
+- 'Kalman filter'
+- 'CRIX'
+- 'CRIX price'
+- 'Return'
+- 'R'
+
+Datafile: 'CRIX.csv'
+
+Output:
+- 'CRIXPrice_Kalman_0.03.gif'
+- 'CRIXPrice_Kalman_0.03.png'
+- 'MSE.png'
+
+Author: 'Jing-Xun Lin'
