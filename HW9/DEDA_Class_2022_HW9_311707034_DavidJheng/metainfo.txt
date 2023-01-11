@@ -1,0 +1,34 @@
+
+Output:
+- 'umap.png'
+
+Author: 
+- 'Wolfgang Karl Härdle'
+- 'Jing-Xun Lin'
+- 'David Jheng'
+- 'Ying-Yu Chen'
+
+Name of Quantlet: 'DEDA_Class_2022_HW9_311707034_DavidJheng'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Using UMAP  to analysis the pattern of fraudulent activities.'
+
+Submitted: '11 Jan 2023'
+
+Keywords: 
+- 'Fraud'
+- 'UMAP'
+- 'Money laundering'
+- 'Machine learning'
+- 'StandardScaler'
+
+Datafile: 'CRIX.csv'
+
+OutPut:
+- 'CRIXPrice_Kalman_0.03.gif'
+- 'CRIXPrice_Kalman.png'
+- 'CRIXPrice_Kalman_0.03.png'
+
+Author:
+- 'David Jheng'
