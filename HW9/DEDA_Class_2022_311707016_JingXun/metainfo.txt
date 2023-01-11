@@ -1,0 +1,23 @@
+Name of Quantlet: 'DEDA_Class_2022_311707016_JingXun'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Using UMAP to analysis the pattern of fraudulent activities. Due to the randomness of UMAP, the result in ipynb file may be different from the output png file. (For homework, we use our project data.)'
+
+Submitted:  '11 Jan 2023'
+
+Keywords: 
+- 'Fraud'
+- 'UMAP'
+- 'Money laundering'
+- 'Machine learning'
+- 'StandardScaler'
+
+Output:
+- 'umap.png'
+
+Author: 
+- 'Wolfgang Karl Härdle'
+- 'Jing-Xun Lin'
+- 'David Jheng'
+- 'Ying-Yu Chen'
