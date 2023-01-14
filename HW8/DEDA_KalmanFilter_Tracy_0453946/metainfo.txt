@@ -1,0 +1,9 @@
+Name of Quantlet: 'DEDA_KalmanFilter_Tracy_0453946'
+Published in: 'DEDA class 2022'
+Description: 'Use the CRIX data as an example to predict market return by Kalman filter' 
+Keywords: 'plot, Kalman Filter, predict, estimation, returns, CRIX, gif'
+Datafile: 'CRIX.csv'
+Output:
+- 'CRIXPrice_Kalman_0.03.png'
+- 'CRIXPrice_Kalman_0.03.gif'
+Author: 'Tracy Lei Zhou' 
