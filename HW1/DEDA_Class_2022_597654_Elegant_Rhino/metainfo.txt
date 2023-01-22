@@ -2,7 +2,7 @@ Name of Quantlet: 'DEDA_Class_2022_597654_Elegant_Rhino'
 
 Published in: 'DEDA class 2022'
 
-Description: 'Use complex numbers as parameters to fit a doggy that nods its head. Creates an MP4 file of the nodding doggy.'
+Description: 'Use complex numbers as parameters to fit an elegant rhino. Creates an MP4 file of the elegant rhino.'
 
 Submitted: '22 Jan 2023'
 
