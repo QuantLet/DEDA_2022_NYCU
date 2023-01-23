@@ -17,7 +17,7 @@ Datafile: 'report.csv'
 
 Output:
 - 'log_population_log_crimes_per_capita_scatter.png'
-- 'og_population_log_crimes_per_capita_clustered.png'
+- 'log_population_log_crimes_per_capita_clustered.png'
 
 Author:
 - 'David Alexander Behrens'
