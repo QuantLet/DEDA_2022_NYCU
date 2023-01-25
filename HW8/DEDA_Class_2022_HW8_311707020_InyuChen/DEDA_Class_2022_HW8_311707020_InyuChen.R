@@ -25,8 +25,8 @@ lapply(libraries, function(x) if (!(x %in% installed.packages())) {
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
 # people can change the wdir, it is the address where you put the results
-wdir = "C:/Users/ASUS/Documents/¥æ¤j/°]°È¤uµ{/KF_modelres-main/KF_modelres-main/"
-# "C:\Users\ASUS\Documents\¥æ¤j\°]°È¤uµ{\KF_modelres-main\KF_modelres-main\CRIX.csv"
+wdir = "C:/Users/ASUS/Documents/äº¤å¤§/è²¡å‹™å·¥ç¨‹/KF_modelres-main/KF_modelres-main/"
+# "C:\Users\ASUS\Documents\äº¤å¤§\è²¡å‹™å·¥ç¨‹\KF_modelres-main\KF_modelres-main\CRIX.csv"
 setwd(wdir)
 dir.create("Results")
 save = paste0(wdir, '/', "Results/")
