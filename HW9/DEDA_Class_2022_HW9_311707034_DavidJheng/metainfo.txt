@@ -1,13 +1,3 @@
-
-Output:
-- 'umap.png'
-
-Author: 
-- 'Wolfgang Karl Härdle'
-- 'Jing-Xun Lin'
-- 'David Jheng'
-- 'Ying-Yu Chen'
-
 Name of Quantlet: 'DEDA_Class_2022_HW9_311707034_DavidJheng'
 
 Published in: 'DEDA class 2022'
@@ -23,12 +13,10 @@ Keywords:
 - 'Machine learning'
 - 'StandardScaler'
 
-Datafile: 'CRIX.csv'
+Datafile: 'PS_20174392719_1491204439457_log.csv'
 
-OutPut:
-- 'CRIXPrice_Kalman_0.03.gif'
-- 'CRIXPrice_Kalman.png'
-- 'CRIXPrice_Kalman_0.03.png'
+Output:
+- 'umap.png'
 
 Author:
 - 'David Jheng'
