@@ -8,7 +8,8 @@ Keywords :
 - dimensiuon reduction
 - UMAP
 - press release
-Input:
+- Pfizer
+Datafile:
 - Pfizer_data.csv
 OutPut :
 - Pfizer_umap.png
