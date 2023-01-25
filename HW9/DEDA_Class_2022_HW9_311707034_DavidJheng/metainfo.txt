@@ -18,5 +18,9 @@ Datafile: 'PS_20174392719_1491204439457_log.csv'
 Output:
 - 'umap.png'
 
-Author:
+
+Author: 
+- 'Wolfgang Karl Härdle'
+- 'Jing-Xun Lin'
 - 'David Jheng'
+- 'Ying-Yu Chen'
