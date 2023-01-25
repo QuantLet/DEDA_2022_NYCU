@@ -11,6 +11,7 @@ Keywords:
 - 'Stock price'
 - 'Return'
 - 'Prediction'
+- 'CRIX'
 
 Datafile: 'CRIX.csv'
 
