@@ -15,7 +15,6 @@ Keywords:
 - Map
 - Scatter plot
 
-Datafile : 'https://data.cityofnewyork.us/resource/fc53-9hrv.json'
 
 Output:
 - 'New_York_EV_fleet_stations_scatter_raw.png'
