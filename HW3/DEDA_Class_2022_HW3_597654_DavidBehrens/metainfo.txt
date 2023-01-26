@@ -1,4 +1,4 @@
-Name of Quantlet: 'DEDA_Class_2022_HW3_DavidBehrens'
+Name of Quantlet: 'DEDA_Class_2022_HW3_597654_DavidBehrens'
 
 Published in: 'DEDA class 2022'
 
