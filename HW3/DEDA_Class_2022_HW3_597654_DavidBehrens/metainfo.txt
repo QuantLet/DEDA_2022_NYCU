@@ -17,7 +17,7 @@ Output:
 - 'FrequentWords.png'
 - 'overview.png'
 - 'wordcloud.png'
-- 'Output.txt
+- 'Output.txt'
 
 
 Author: 
