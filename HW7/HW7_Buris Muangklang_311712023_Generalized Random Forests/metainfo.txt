@@ -1,0 +1,13 @@
+Name of Quantlet : HW7_Buris Muangklang_311712023_Generalized Random Forests
+Published in : DEDA_2022_NYCU
+Description :
+- Generalized Random Forests (GRF)
+Keywords :
+- Generalized Random Forests
+- GRF
+- SC
+- MST
+- LLE
+
+Submitted:  '19 Nov 2022'
+Author : Buris Muangklang

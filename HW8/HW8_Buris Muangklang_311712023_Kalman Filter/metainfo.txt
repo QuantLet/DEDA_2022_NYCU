@@ -1,0 +1,24 @@
+Name of Quantlet: 'HW8_Buris Muangklang_311712023_Kalman filter'
+
+Published in: 'DEDA class 2022'
+
+Submitted: '13 Dec 2022'
+
+Description: 'Use the CRIX data to predict the return by Kalman filter' 
+
+Keywords: 
+- 'Kalman Filter'
+- 'Apple stock return'
+- 'CRIX'
+- 'Return'
+- 'Prediction'
+
+Datafile: 'CRIX.csv'
+
+Output: 
+- "CRIXPrice_Kalman_0.03.gif"
+- "CRIXPrice_Kalman_0.03.png"
+- "MSE of Different Q and R.png"
+
+Author: 
+- 'Buris Muangklang'

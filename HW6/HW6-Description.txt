@@ -1,11 +1,4 @@
-Hi everyone,
+HW6: 
+Do the Quizzes for Spectral Clustering and Boosting, 
 
-This week, please do the quizzes for Spectral Clustering and Boosting(mandatory).
-
-Beside, Professor assign optional HW for doing the credit reform with PY.
-
-
-
-Warm regards,
-
-Zoe
+Optional HW : do the credit reform with PY

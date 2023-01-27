@@ -1,0 +1,20 @@
+Name of Quantlet : Coins
+Published in : DEDA_2022_NYCU
+Description : 
+- plot of prices in USD of five cryptocurrencies (BTC, ETH, BNB, XRP, ADA)
+Keywords :
+- Cryptocurrency
+- Time Series
+- Financial Markets
+- Bitcoin
+- Ether
+- Binance Coin
+- Ripple
+- Cardano
+Datafile:
+- CRIXgraphicdata.csv
+Output :
+- Coins.png
+Submitted:  '13 Dec 2022'
+Author : 
+- 'David Alexander Behrens'

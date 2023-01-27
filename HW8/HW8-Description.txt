@@ -1,0 +1,14 @@
+HW8
+
+1. Please practice "Kalman filter" at QuantLet: 
+    https://github.com/QuantLet/KF_modelres
+
+2. Bonus (+5) for either one of the following options:
+  - Please do at least ONE Quiz for "Kalman filte"
+  - Please do at least ONE Quiz for "Spectral Clustering"
+  - Please do at least ONE Quiz for "HMM"
+Thanks!
+
+Best,
+
+Jane
