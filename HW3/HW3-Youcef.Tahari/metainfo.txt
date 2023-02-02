@@ -1,0 +1,8 @@
+Name of Quantlet : HW3-Youcef.Tahari
+Published in : DEDA class 2022
+Description : Sentiment analysis on Kennedy's speech
+Keywords :
+- Sentiment analysis
+Output :
+- HW3 Youcef.Tahari_20230127.ipynb 
+Author : 'Youcef Tahari'
