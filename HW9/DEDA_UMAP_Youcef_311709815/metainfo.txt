@@ -1,4 +1,4 @@
-Name of Quantlet : DEDA_UMAP_Youcef_0453946
+Name of Quantlet : DEDA_UMAP_Youcef_311709815
 Published in : DEDA_2022_NYCU
 Description : 
 - Study the relationship between press release and market performance with the case of Pfizer during the pandemic.
@@ -9,7 +9,7 @@ Keywords :
 - UMAP
 - press release
 - Pfizer
-OutPut :
+Output :
 - Pfizer_umap.png
 - Pfizer_umap2.png
 Author : 
