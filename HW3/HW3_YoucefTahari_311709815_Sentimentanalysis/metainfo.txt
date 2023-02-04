@@ -1,0 +1,20 @@
+Name of Quantlet : HW3_YoucefTahari_311709815_Sentimentanalysis
+
+Published in : DEDA_2022_NYCU
+
+Description :
+- Sentiment analysis on Kennedy's speech 'Measuring everything except what makes life worthwhile'
+- Introducing functional programming and object-oriented programming
+
+Keywords :
+- Python
+- sentiment
+- Word frequency
+- Web scraping
+
+Output :
+- 'Most frequent words.png'
+
+Submitted:  '31 Jan 2023'
+
+Author : Youcef Tahari 
