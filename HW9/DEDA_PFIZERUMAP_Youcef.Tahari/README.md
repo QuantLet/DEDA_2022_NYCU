@@ -1,0 +1,28 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of Quantlet: DEDA_PFIZERUMAP_Youcef.Tahari
+
+Published in: DEDA_2022_NYCU
+
+Description: 
+
+Keywords: 
+
+Output: 
+
+Author: 
+
+```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/HW9/DEDA_PFIZERUMAP_Youcef.Tahari/Pfizer_umap.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/HW9/DEDA_PFIZERUMAP_Youcef.Tahari/Pfizer_umap2.png" alt="Image" />
+</div>
+
