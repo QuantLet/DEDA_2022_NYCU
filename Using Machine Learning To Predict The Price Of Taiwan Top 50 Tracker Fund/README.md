@@ -1,0 +1,67 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of Quantlet: Using Machine Learning To Predict The Price Of Taiwan Top 50 Tracker Fund
+
+Published in: DEDA class 2022
+
+Description: This study is to predict the closing price of the Taiwan Top 50 Tracker Fund using different machine learning algorithms and compare their performances.
+
+Datafile: 0050.TW.csv
+
+Submitted: 06 Dec 2022
+
+Keywords: 
+- 'Prediction
+- 'Stock Market
+- 'Closing Price
+- 'Machine Learning
+- 'Importance Analysis
+- 'Hybrid Stacking Model
+- 'Taiwan Top 50 Tracker Fund
+- 'Random Forests Model
+- 'Bayesian
+- 'Support vector machine
+- 'K-nearest neighbors
+- 'Clustering
+
+Output: 
+- "Important Analysis.png
+- "single models results.png
+- "stacking models results.png
+- "data_view.png
+- "Clustering_results_a.png
+- "Clustering_results_b.png
+
+Author: 
+- 'TZU-YING TUNG
+
+```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/Clustering_results_a.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/Clustering_results_b.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/Important%20Analysis.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/data_view.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/single%20models%20results.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2022_NYCU/main/Using%20Machine%20Learning%20To%20Predict%20The%20Price%20Of%20Taiwan%20Top%2050%20Tracker%20Fund/stacking%20models%20results.png" alt="Image" />
+</div>
+
