@@ -14,18 +14,18 @@ Description: Use complex numbers as parameters to fit an elegant rhino. Creates 
 Submitted: 22 Jan 2023
 
 Keywords: 
-- 'Complex analysis
-- 'Fourier Transform
-- 'Elegant Rhino
-- 'Mathematical Art
-- 'Fitting Rhino
+- Complex analysis
+- Fourier Transform
+- Elegant Rhino
+- Mathematical Art
+- Fitting Rhino
 
 Output: 
-- 'DEDA_Class_2022_597654_Elegant_Rhino.png
-- 'DEDA_Class_2022_597654_Elegant_Rhino.mp4
+- DEDA_Class_2022_597654_Elegant_Rhino.png
+- DEDA_Class_2022_597654_Elegant_Rhino.mp4
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
