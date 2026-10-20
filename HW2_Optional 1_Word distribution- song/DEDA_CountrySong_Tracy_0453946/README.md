@@ -14,20 +14,20 @@ Description: Compare three Country Songs with their frequency words and their to
 Submitted: 28 Sep 2022
 
 Keywords: 
-- 'LDA
-- 'Word cloud,
-- 'Topic modelling
-- 'Country Song
-- 'Word frequency
+- LDA
+- Word cloud,
+- Topic modelling
+- Country Song
+- Word frequency
 
 Input files: 
-- 'COUNTRY SONG.txt
-- 'guitar.png
+- COUNTRY SONG.txt
+- guitar.png
 
 Output: 
-- 'Output_total.txt
-- 'plot_wordcloud_guitar.png
-- 'plot_heatmap_countrysong.png
+- Output_total.txt
+- plot_wordcloud_guitar.png
+- plot_heatmap_countrysong.png
 
 Author: Tracy Zhou
 
