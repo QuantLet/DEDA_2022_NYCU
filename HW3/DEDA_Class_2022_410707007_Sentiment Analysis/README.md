@@ -14,19 +14,19 @@ Description: Using Web Scraping to extract and study information from texts and 
 Submitted: 6 Oct 2022
 
 Keywords: 
-- 'Sentiment Analysis
-- 'Chromedriver
-- 'Positive and Negative
-- 'Joe Biden speech
-- 'Attributes
+- Sentiment Analysis
+- Chromedriver
+- Positive and Negative
+- Joe Biden speech
+- Attributes
 
 Output: 
-- 'DEDA_Class_2022_410707007_Sentiment Analysis.png
-- 'DEDA_Class_2022_410707007_Sentiment Analysis_a.png
-- 'DEDA_Class_2022_410707007_Sentiment Analysis_b.png
+- DEDA_Class_2022_410707007_Sentiment Analysis.png
+- DEDA_Class_2022_410707007_Sentiment Analysis_a.png
+- DEDA_Class_2022_410707007_Sentiment Analysis_b.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
