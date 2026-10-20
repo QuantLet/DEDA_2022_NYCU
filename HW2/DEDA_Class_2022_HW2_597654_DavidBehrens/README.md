@@ -23,8 +23,8 @@ Keywords:
 - Scatter plot
 
 Output: 
-- 'New_York_EV_fleet_stations_scatter_raw.png
-- 'New_York_EV_fleet_stations.html
+- New_York_EV_fleet_stations_scatter_raw.png
+- New_York_EV_fleet_stations.html
 
 Author: David Alexander Behrens
 
