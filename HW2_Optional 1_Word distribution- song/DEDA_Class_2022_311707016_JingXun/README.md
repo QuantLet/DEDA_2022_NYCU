@@ -14,17 +14,17 @@ Description: After getting the lyrics of a song, make a wordcloud to discover wh
 Submitted: 02 Oct 2022
 
 Keywords: 
-- 'WordCloud
-- 'Song
-- 'Lyrics
-- 'Stopwords
-- 'Word frequency
+- WordCloud
+- Song
+- Lyrics
+- Stopwords
+- Word frequency
 
 Input: 
-- 'lyrics.txt
+- lyrics.txt
 
 Output: 
-- 'wordcloud.png
+- wordcloud.png
 
 Author: Jing-Xun Lin
 
