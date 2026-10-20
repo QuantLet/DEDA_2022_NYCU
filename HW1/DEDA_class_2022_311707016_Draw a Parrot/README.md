@@ -14,15 +14,15 @@ Description: Using complex number and basic python to draw a parrot, and creatin
 Submitted: 19 Sep 2022
 
 Keywords: 
-- 'Python
-- 'Complex Number
-- 'Parrot
-- 'Mathematics
-- 'Function
+- Python
+- Complex Number
+- Parrot
+- Mathematics
+- Function
 
 Output: 
-- 'DEDA_class_2022_311707016_Draw a Parrot.png
-- 'DEDA_class_2022_311707016_Draw a Parrot.mp4
+- DEDA_class_2022_311707016_Draw a Parrot.png
+- DEDA_class_2022_311707016_Draw a Parrot.mp4
 
 Author: Jing-Xun Lin
 
