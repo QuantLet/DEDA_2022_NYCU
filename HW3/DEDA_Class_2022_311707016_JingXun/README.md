@@ -14,15 +14,15 @@ Description: Using web scraping technic to get the speech of the chairman of the
 Submitted: 06 Oct 2022
 
 Keywords: 
-- 'Word frequency
-- 'Web scraping
-- 'Sentiment analysis
-- 'Stopwords
-- 'Speech
+- Word frequency
+- Web scraping
+- Sentiment analysis
+- Stopwords
+- Speech
 
 Output: 
-- 'speech_frequency.jpg
-- 'sentiment_output.txt
+- speech_frequency.jpg
+- sentiment_output.txt
 
 Author: Jing-Xun Lin
 
