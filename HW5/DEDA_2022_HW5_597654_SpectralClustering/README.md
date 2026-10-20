@@ -14,20 +14,20 @@ Description: Spectral clustering for log population and log crime rate per capit
 Submitted: 22 Jan 2023
 
 Keywords: 
-- 'spectral clustering
-- 'clustering
-- 'langrange
-- 'scatter plot
-- 'data visualization
+- spectral clustering
+- clustering
+- langrange
+- scatter plot
+- data visualization
 
 Datafile: report.csv
 
 Output: 
-- 'log_population_log_crimes_per_capita_scatter.png
-- 'log_population_log_crimes_per_capita_clustered.png
+- log_population_log_crimes_per_capita_scatter.png
+- log_population_log_crimes_per_capita_clustered.png
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
