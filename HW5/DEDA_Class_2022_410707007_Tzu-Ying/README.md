@@ -16,19 +16,19 @@ Datafile: Taipei MRT.csv
 Submitted: 21 Oct 2022
 
 Keywords: 
-- 'Hierarchical Clustering
-- 'PCA
-- 'Dendrogram
-- 'Passenger flow
-- 'Taipei MRT
+- Hierarchical Clustering
+- PCA
+- Dendrogram
+- Passenger flow
+- Taipei MRT
 
 Output: 
-- "PCA.png
-- "dendrogram.png
-- "Visualisation.png
+- PCA.png
+- dendrogram.png
+- Visualisation.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
