@@ -14,20 +14,20 @@ Description: Draw the clustering diagram and dendrogram with iris data by using 
 Submitted: 21 Oct 2022
 
 Keywords: 
-- 'Hierarchical clustering
-- 'iris data
-- 'dendrogram
-- 'Agglomerative Clustering
-- 'sklearn
+- Hierarchical clustering
+- iris data
+- dendrogram
+- Agglomerative Clustering
+- sklearn
 
 Output: 
-- 'IRIS Algorithm.png
-- 'IRIS dendrogram.png
-- 'IRIS Dataset.png
+- IRIS Algorithm.png
+- IRIS dendrogram.png
+- IRIS Dataset.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Ying-Yu Chen
 
 ```
 <div align="center">
