@@ -16,20 +16,20 @@ Submitted: 22 Oct 2022
 Datafile: data.csv
 
 Keywords: 
-- 'CART
-- 'Random Forest
-- 'Importance analysis
-- 'ROC curve
-- 'Stock price direction
+- CART
+- Random Forest
+- Importance analysis
+- ROC curve
+- Stock price direction
 
 Output: 
-- "Decision Tree.png
-- "Importance.png
-- "ROC_Random Forest.png
-- "ROC_Decision Tree.png
+- Decision Tree.png
+- Importance.png
+- ROC_Random Forest.png
+- ROC_Decision Tree.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
