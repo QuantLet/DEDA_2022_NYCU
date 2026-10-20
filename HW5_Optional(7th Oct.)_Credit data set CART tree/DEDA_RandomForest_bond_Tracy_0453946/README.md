@@ -12,23 +12,23 @@ Published in: DEDA class 2022
 Description: Predicts the firm leverage from FISD Data with a Tree (CART) and a Random Forest.
 
 Keywords: 
-- 'machine learning
-- 'decision tree
-- 'random forest
-- 'prediction
-- 'classification
-- 'plot
+- machine learning
+- decision tree
+- random forest
+- prediction
+- classification
+- plot
 
 Datafile: rf_bond.csv
 
 Output: 
-- 'plot_ROC_CART.png
-- 'plot_ROC_RF.png
-- 'plot_Resampling_RF_CART.png
-- 'plot_Decision_Tree_bond.png
-- 'plot_RF_feature_importance.png
-- 'plot_ROC_DecisionTree.png
-- 'plot_ROC_RandomForest.png
+- plot_ROC_CART.png
+- plot_ROC_RF.png
+- plot_Resampling_RF_CART.png
+- plot_Decision_Tree_bond.png
+- plot_RF_feature_importance.png
+- plot_ROC_DecisionTree.png
+- plot_ROC_RandomForest.png
 
 Submitted: 16 Oct 2022
 
