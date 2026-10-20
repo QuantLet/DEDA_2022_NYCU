@@ -23,8 +23,8 @@ Keywords:
 Datafile: CRIX.csv
 
 Output: 
-- 'CRIXPrice_Kalman_0.03.png
-- 'CRIXPrice_Kalman_0.03.gif
+- CRIXPrice_Kalman_0.03.png
+- CRIXPrice_Kalman_0.03.gif
 
 Author: Tracy Lei Zhou
 
