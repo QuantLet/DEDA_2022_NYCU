@@ -14,22 +14,22 @@ Description: Use the Kalman filter to predict market return using the CRIX data 
 Submitted: 12 Jan 2023
 
 Keywords: 
-- 'Kalman filter
-- 'CRIX data
-- 'market return
-- 'Prediction
-- 'linear quadratic estimation
+- Kalman filter
+- CRIX data
+- market return
+- Prediction
+- linear quadratic estimation
 
 Datafile: CRIX.csv
 
 Output: 
-- 'CRIX_Price_0.03_Kalman.gif
-- 'Kalman_CRIX_Price.png
-- 'Kalman_CRIX_Price_0.03.png
+- CRIX_Price_0.03_Kalman.gif
+- Kalman_CRIX_Price.png
+- Kalman_CRIX_Price_0.03.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Ying-Yu Chen
 
 ```
 <div align="center">
