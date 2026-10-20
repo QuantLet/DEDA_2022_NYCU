@@ -14,18 +14,18 @@ Description: Using json module to unpack Taichung YouBik dataset and obtaining t
 Submitted: 3 Oct 2022
 
 Keywords: 
-- 'YouBike
-- 'Open database
-- 'Scraping
-- 'JSON
-- 'Instantaneous information
+- YouBike
+- Open database
+- Scraping
+- JSON
+- Instantaneous information
 
 Output: 
-- 'DEDA_410707007_HW2_Scraping with Taichung YouBike dataset.png
-- 'DEDA_410707007_HW2_Scraping with Taichung YouBike dataset.html
+- DEDA_410707007_HW2_Scraping with Taichung YouBike dataset.png
+- DEDA_410707007_HW2_Scraping with Taichung YouBike dataset.html
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
