@@ -25,7 +25,7 @@ Output:
 - Pfizer_umap2.png
 
 Author: 
-- 'Youcef Tahari
+- Youcef Tahari
 
 ```
 <div align="center">
