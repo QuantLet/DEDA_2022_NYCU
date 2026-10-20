@@ -14,19 +14,19 @@ Description: Getting data from webpage API and scraping, then making the locatio
 Submitted: 29 Sep 2022
 
 Keywords: 
-- 'Web crawling
-- 'Visualization
-- 'Spatial
-- 'Map
-- 'Scatter plot
+- Web crawling
+- Visualization
+- Spatial
+- Map
+- Scatter plot
 
 Output: 
-- 'DEDA_311707034_HW2_YouBike map information_Taipei_result1.png
-- 'DEDA_311707034_HW2_YouBike map information_Taipei_result2.png
-- 'DEDA_311707034_HW2_YouBike map information_Taipei_result3.png
+- DEDA_311707034_HW2_YouBike map information_Taipei_result1.png
+- DEDA_311707034_HW2_YouBike map information_Taipei_result2.png
+- DEDA_311707034_HW2_YouBike map information_Taipei_result3.png
 
 Author: 
-- 'David Jheng
+- David Jheng
 
 ```
 <div align="center">
