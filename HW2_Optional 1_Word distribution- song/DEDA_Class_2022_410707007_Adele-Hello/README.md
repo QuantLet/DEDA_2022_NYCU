@@ -14,18 +14,18 @@ Description: Using LDA to learn the topic representation of a song and word dist
 Submitted: 4 Oct 2022
 
 Keywords: 
-- 'cat
-- 'Word Cloud
-- 'Adele - Hello
-- 'Stop Words
-- 'Word distribution
+- cat
+- Word Cloud
+- Adele - Hello
+- Stop Words
+- Word distribution
 
 Output: 
-- "DEDA_Class_2022_410707007_Adele-Hello_a.png
-- "DEDA_Class_2022_410707007_Adele-Hello_b.png
+- DEDA_Class_2022_410707007_Adele-Hello_a.png
+- DEDA_Class_2022_410707007_Adele-Hello_b.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
