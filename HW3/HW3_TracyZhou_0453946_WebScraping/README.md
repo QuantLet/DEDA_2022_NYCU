@@ -21,12 +21,12 @@ Keywords:
 - sentiment
 
 OutPut: 
-- 'Output_Speech_by_JeromePowell.txt
-- 'Output_score.txt
-- 'Output_LDAmodel.txt
-- 'plot_WordFrequencyOverview.png
-- 'plot_MostFrequentWords.png
-- 'plot_Wordcloud.png
+- Output_Speech_by_JeromePowell.txt
+- Output_score.txt
+- Output_LDAmodel.txt
+- plot_WordFrequencyOverview.png
+- plot_MostFrequentWords.png
+- plot_Wordcloud.png
 
 Submitted: 28 Sep 2022
 
