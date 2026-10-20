@@ -14,20 +14,20 @@ Description: Using UMAP  to analysis the pattern of fraudulent activities.
 Submitted: 22 Nov 2022
 
 Keywords: 
-- 'Fraud
-- 'UMAP
-- 'Money laundering
-- 'Machine learning
-- 'StandardScaler
+- Fraud
+- UMAP
+- Money laundering
+- Machine learning
+- StandardScaler
 
 Output: 
-- 'umap.png
+- umap.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Jing-Xun Lin
-- 'David Jheng
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Jing-Xun Lin
+- David Jheng
+- Ying-Yu Chen
 
 ```
 <div align="center">
