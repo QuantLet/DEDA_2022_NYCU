@@ -22,9 +22,9 @@ Keywords:
 Datafile: mobile_os_usage-2009-2014.csv
 
 Output: 
-- 'plot_Mobile Usage_Data.png
-- 'plot_Mobile Usage_PCA.png
-- 'plot_Mobile Usage_WardD.png
+- plot_Mobile Usage_Data.png
+- plot_Mobile Usage_PCA.png
+- plot_Mobile Usage_WardD.png
 
 Submitted: 21 Oct 2022
 
