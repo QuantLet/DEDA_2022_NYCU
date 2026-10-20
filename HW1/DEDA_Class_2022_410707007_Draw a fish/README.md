@@ -14,18 +14,18 @@ Description: Using complex number and Spyder to draw a fish, and to generate a P
 Submitted: 24 Sep 2022
 
 Keywords: 
-- 'Fish
-- 'Spyder
-- 'Fourier coordinate expansion
-- 'Complex Parameter
-- 'ffpmg
+- Fish
+- Spyder
+- Fourier coordinate expansion
+- Complex Parameter
+- ffpmg
 
 Output: 
-- "DEDA_Class_2022_410707007_Draw a fish.mp4
-- "DEDA_Class_2022_410707007_Draw a fish.png
+- DEDA_Class_2022_410707007_Draw a fish.mp4
+- DEDA_Class_2022_410707007_Draw a fish.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
