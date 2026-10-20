@@ -22,8 +22,8 @@ Keywords:
 Datafile: econ-gen-poids-dette-pub-ue-2.xlsx
 
 Output: 
-- 'Public debts in the european union in 2021.png
-- 'Cluster GDP to debt level ratio.png
+- Public debts in the european union in 2021.png
+- Cluster GDP to debt level ratio.png
 
 Submitted: 31 Oct 2022
 
