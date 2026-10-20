@@ -14,20 +14,20 @@ Description: Python web scrapping and seniment analysis of John F. Kennedy's spe
 Submitted: 24 Jan 2023
 
 Keywords: 
-- 'Sentiment Analysis
-- 'wordcloud
-- 'Beautiful Soup
-- 'Word Frequency
-- 'Histogram of Words
+- Sentiment Analysis
+- wordcloud
+- Beautiful Soup
+- Word Frequency
+- Histogram of Words
 
 Output: 
-- 'FrequentWords.png
-- 'overview.png
-- 'wordcloud.png
-- 'Output.txt
+- FrequentWords.png
+- overview.png
+- wordcloud.png
+- Output.txt
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
