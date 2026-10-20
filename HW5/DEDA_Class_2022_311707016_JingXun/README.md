@@ -14,16 +14,16 @@ Description: Using the fund data from Securities Investment Trust & Consulting A
 Submitted: 16 Oct 2022
 
 Keywords: 
-- 'Hierarchical clustering
-- 'Fund
-- 'SITCA
-- 'Investment
-- 'Dendrogram
+- Hierarchical clustering
+- Fund
+- SITCA
+- Investment
+- Dendrogram
 
 Output: 
-- 'dendrogram.png
-- 'pairplot.png
-- 'size_and_expense.png
+- dendrogram.png
+- pairplot.png
+- size_and_expense.png
 
 Author: Jing-Xun Lin
 
