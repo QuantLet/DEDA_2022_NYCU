@@ -14,17 +14,17 @@ Description: Using the CreditReform data, make a decision tree classifier and dr
 Submitted: 25 Oct 2022
 
 Keywords: 
-- 'Credit
-- 'Decision tree
-- 'Classifier
-- 'Tree
-- 'Insolvency
+- Credit
+- Decision tree
+- Classifier
+- Tree
+- Insolvency
 
 Datafile: 
-- 'data_sample.csv
+- data_sample.csv
 
 Output: 
-- 'decision_tree_creditreform.png
+- decision_tree_creditreform.png
 
 Author: Jing-Xun Lin
 
