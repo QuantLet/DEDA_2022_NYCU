@@ -16,19 +16,19 @@ Datafile: 0050.TW.csv
 Submitted: 27 Nov 2022
 
 Keywords: 
-- 'UMAP
-- 't-SNE
-- 'PCA
-- 'Taiwan 50 Index
-- 'Dimension Reduction
+- UMAP
+- t-SNE
+- PCA
+- Taiwan 50 Index
+- Dimension Reduction
 
 Output: 
-- "UMAP_plot.png
-- "t-SNE_plot.png
-- "PCA_plot.png
+- UMAP_plot.png
+- t-SNE_plot.png
+- PCA_plot.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
