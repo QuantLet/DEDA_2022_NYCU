@@ -28,7 +28,7 @@ OutPut:
 - Pfizer_umap2.png
 
 Author: 
-- 'Tracy Lei Zhou
+- Tracy Lei Zhou
 
 ```
 <div align="center">
