@@ -14,19 +14,19 @@ Description: Using UMAP to reduce the dimensionality of the fraud detection data
 Submitted: 12 Jan 2023
 
 Keywords: 
-- 'UMAP
-- 'fraud detection
-- 'Dimensionality reduction
-- 'sklearn
-- 'seaborn
+- UMAP
+- fraud detection
+- Dimensionality reduction
+- sklearn
+- seaborn
 
 Datafile: sampling_data.csv
 
 Output: 
-- 'umap.png
+- umap.png
 
 Author: 
-- 'Ying-Yu Chen
+- Ying-Yu Chen
 
 ```
 <div align="center">
