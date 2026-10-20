@@ -22,9 +22,9 @@ Keywords:
 Datafile: bond.csv
 
 OutPut: 
-- 'plot_Bond_Data.png
-- 'plot_Bond_PCA.png
-- 'plot_Bond_WardD.png
+- plot_Bond_Data.png
+- plot_Bond_PCA.png
+- plot_Bond_WardD.png
 
 Submitted: 10 Oct 2022
 
