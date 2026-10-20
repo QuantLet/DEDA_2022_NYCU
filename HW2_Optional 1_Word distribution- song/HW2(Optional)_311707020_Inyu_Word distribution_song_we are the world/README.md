@@ -14,23 +14,23 @@ Description: Make the word cloud by extracing the words from Michael Jackson's s
 Submitted: 07 Oct 2022
 
 Keywords: 
-- 'We are the world
-- 'Michael Jackson
-- 'stopwords
-- 'cleantext
-- 'worldcloud
+- We are the world
+- Michael Jackson
+- stopwords
+- cleantext
+- worldcloud
 
 Datafile: 
-- 'earth.png
-- 'we are the world.txt
+- earth.png
+- we are the world.txt
 
 Output: 
-- 'Output_total.txt
-- 'we are the world.png
+- Output_total.txt
+- we are the world.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Ying-Yu Chen
 
 ```
 <div align="center">
