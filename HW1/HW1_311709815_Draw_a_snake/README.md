@@ -12,11 +12,11 @@ Published in: DEDA class 2022
 Description: Draw any animal using python
 
 Keywords: 
-- 'Complex analysis
-- 'Fourier Transform
-- 'Elephant Trunk Wiggling
-- 'Fitting Elephant
-- 'snake
+- Complex analysis
+- Fourier Transform
+- Elephant Trunk Wiggling
+- Fitting Elephant
+- snake
 
 Output: 
 - snake.pnj.png
