@@ -14,18 +14,18 @@ Description: Use complex numbers as parameters to fit a doggy that nods its head
 Submitted: 15 Sep 2022
 
 Keywords: 
-- 'Complex analysis
-- 'Fourier Transform
-- 'Nodding doggy
-- 'Elephant Trunk Wiggling
-- 'Fitting Elephant
+- Complex analysis
+- Fourier Transform
+- Nodding doggy
+- Elephant Trunk Wiggling
+- Fitting Elephant
 
 Output: 
-- 'DEDA_Class_2022_311707034_Nodding Doggy.png
-- 'DEDA_Class_2022_311707034_Nodding Doggy.mp4
+- DEDA_Class_2022_311707034_Nodding Doggy.png
+- DEDA_Class_2022_311707034_Nodding Doggy.mp4
 
 Author: 
-- 'David Jheng
+- David Jheng
 
 ```
 <div align="center">
