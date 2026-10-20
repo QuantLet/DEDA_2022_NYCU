@@ -14,17 +14,17 @@ Description: Use complex numbers as parameters to flat fish that shaking its tai
 Submitted: 22 Sep 2022
 
 Keywords: 
-- 'Complex analysis
-- 'Fourier Transform
-- 'shaking falt fish
-- 'Mathematics
-- 'Function
-- 'NYCU
-- 'National Yang Ming Chiao Tung University Hsinchu, Taiwan
+- Complex analysis
+- Fourier Transform
+- shaking falt fish
+- Mathematics
+- Function
+- NYCU
+- National Yang Ming Chiao Tung University Hsinchu, Taiwan
 
 Output: 
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.png
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4
+- DEDA_Class_2022_0453946_Tracy_flatfish.png
+- DEDA_Class_2022_0453946_Tracy_flatfish.mp4
 
 Author: Tracy Zhou
 
