@@ -14,19 +14,19 @@ Submitted: 01 Feb 2023
 Description: Use the Apple stock price data to predict the return by Kalman filter
 
 Keywords: 
-- 'Kalman Filter
-- 'Return
-- 'Bitcoin price
-- 'Cryptocurrency
-- 'Prediction
+- Kalman Filter
+- Return
+- Bitcoin price
+- Cryptocurrency
+- Prediction
 
 Output: 
-- "Observable return vs Predicted return.gif
-- "Return of BTC- observable & predicted returns.png
-- "MSE of Different Q and R.png
+- Observable return vs Predicted return.gif
+- Return of BTC- observable & predicted returns.png
+- MSE of Different Q and R.png
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
