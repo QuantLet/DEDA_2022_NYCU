@@ -14,21 +14,21 @@ Submitted: 13 Dec 2022
 Description: Use the CRIX data to predict the return by Kalman filter
 
 Keywords: 
-- 'Kalman Filter
-- 'Apple stock return
-- 'CRIX
-- 'Return
-- 'Prediction
+- Kalman Filter
+- Apple stock return
+- CRIX
+- Return
+- Prediction
 
 Datafile: CRIX.csv
 
 Output: 
-- "CRIXPrice_Kalman_0.03.gif
-- "CRIXPrice_Kalman_0.03.png
-- "MSE of Different Q and R.png
+- CRIXPrice_Kalman_0.03.gif
+- CRIXPrice_Kalman_0.03.png
+- MSE of Different Q and R.png
 
 Author: 
-- 'Buris Muangklang
+- Buris Muangklang
 
 ```
 <div align="center">
