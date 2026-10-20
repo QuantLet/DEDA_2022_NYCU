@@ -14,25 +14,25 @@ Description: Hierarchical clustering for customer data.
 Submitted: 24 Oct 2022
 
 Keywords: 
-- 'hierarchical clustering
-- 'clustering
-- 'distance
-- 'dendrogram
-- 'data visualization
+- hierarchical clustering
+- clustering
+- distance
+- dendrogram
+- data visualization
 
 Datafile: Mall_Customers.csv
 
 Output: 
-- 'Customers information (before cluster).png
-- 'Displot of Age, annual income and spending score.png
-- 'heatmap.png
-- 'Dendrogram.png
-- '3D Scatter.png
-- 'Clusters of Customers (Hierarchical Clustering Model).png
-- 'Segmented_customers.csv
+- Customers information (before cluster).png
+- Displot of Age, annual income and spending score.png
+- heatmap.png
+- Dendrogram.png
+- 3D Scatter.png
+- Clusters of Customers (Hierarchical Clustering Model).png
+- Segmented_customers.csv
 
 Author: 
-- 'David Jheng
+- David Jheng
 
 ```
 <div align="center">
