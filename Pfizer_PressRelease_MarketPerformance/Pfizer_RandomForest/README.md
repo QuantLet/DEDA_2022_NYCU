@@ -33,10 +33,10 @@ OutPut:
 Submitted: 05 Dec 2022
 
 Author: 
-- 'Tracy Zhou
-- 'Youcef Tahari
-- 'Buris Muangklang
-- 'Wolfgang Karl Härdle
+- Tracy Zhou
+- Youcef Tahari
+- Buris Muangklang
+- Wolfgang Karl Härdle
 
 ```
 <div align="center">
