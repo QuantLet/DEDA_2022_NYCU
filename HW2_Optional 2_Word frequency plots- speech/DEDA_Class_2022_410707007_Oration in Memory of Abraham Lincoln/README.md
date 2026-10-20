@@ -14,18 +14,18 @@ Description: Using web scraping to obtain word frequency plots
 Submitted: 4 Oct 2022
 
 Keywords: 
-- 'Word Frequency
-- 'Chromedriver
-- 'Sequence selection
-- 'Abraham lincoln
-- 'Web scraping
+- Word Frequency
+- Chromedriver
+- Sequence selection
+- Abraham lincoln
+- Web scraping
 
 Output: 
-- "DEDA_Class_2022_410707007_Oration in Memory of Abraham Lincoln_a.png
-- "DEDA_Class_2022_410707007_Oration in Memory of Abraham Lincoln_b.png
+- DEDA_Class_2022_410707007_Oration in Memory of Abraham Lincoln_a.png
+- DEDA_Class_2022_410707007_Oration in Memory of Abraham Lincoln_b.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
