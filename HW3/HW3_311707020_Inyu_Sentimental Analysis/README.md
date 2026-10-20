@@ -14,18 +14,18 @@ Description: The files contain code for Python Webscraping and Sentiment Analysi
 Submitted: 7 Oct 2022
 
 Keywords: 
-- 'Sentiment Analysis
-- 'Stopwords
-- 'Beautiful Soup
-- 'Word Frequency
-- 'Histogram of Words
+- Sentiment Analysis
+- Stopwords
+- Beautiful Soup
+- Word Frequency
+- Histogram of Words
 
 Output: 
-- 'Most frequent words.png
+- Most frequent words.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Ying-Yu Chen
 
 ```
 <div align="center">
