@@ -14,19 +14,19 @@ Description: Scraping the speech transcript of each party's leader from the web,
 Submitted: 24 Oct 2022
 
 Keywords: 
-- 'Python
-- 'Web Data
-- 'Json
-- 'selenium
-- 'sentiment
+- Python
+- Web Data
+- Json
+- selenium
+- sentiment
 
 Datafile: url.csv
 
 Output: 
-- "Different Parties Leader's Speech Comparison.png
+- Different Parties Leader's Speech Comparison.png
 
 Author: 
-- 'David Jheng
+- David Jheng
 
 ```
 <div align="center">
