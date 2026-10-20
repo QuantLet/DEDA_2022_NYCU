@@ -16,29 +16,29 @@ Datafile: 0050.TW.csv
 Submitted: 06 Dec 2022
 
 Keywords: 
-- 'Prediction
-- 'Stock Market
-- 'Closing Price
-- 'Machine Learning
-- 'Importance Analysis
-- 'Hybrid Stacking Model
-- 'Taiwan Top 50 Tracker Fund
-- 'Random Forests Model
-- 'Bayesian
-- 'Support vector machine
-- 'K-nearest neighbors
-- 'Clustering
+- Prediction
+- Stock Market
+- Closing Price
+- Machine Learning
+- Importance Analysis
+- Hybrid Stacking Model
+- Taiwan Top 50 Tracker Fund
+- Random Forests Model
+- Bayesian
+- Support vector machine
+- K-nearest neighbors
+- Clustering
 
 Output: 
-- "Important Analysis.png
-- "single models results.png
-- "stacking models results.png
-- "data_view.png
-- "Clustering_results_a.png
-- "Clustering_results_b.png
+- Important Analysis.png
+- single models results.png
+- stacking models results.png
+- data_view.png
+- Clustering_results_a.png
+- Clustering_results_b.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
