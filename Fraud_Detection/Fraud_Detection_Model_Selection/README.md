@@ -14,25 +14,25 @@ Description: Use different models to correctly predict fraudulent and valid tran
 Submitted: 22 Nov 2022
 
 Keywords: 
-- 'Fraud
-- 'Neural networks
-- 'Random forest
-- 'XGB trees
-- 'Money laundering
-- 'Machine learning
-- 'StandardScaler
+- Fraud
+- Neural networks
+- Random forest
+- XGB trees
+- Money laundering
+- Machine learning
+- StandardScaler
 
 Output: 
-- 'AUC.png
-- 'importances.png
-- 'MLP.png
-- 'RandomForest.png
-- 'XGBtrees.png
+- AUC.png
+- importances.png
+- MLP.png
+- RandomForest.png
+- XGBtrees.png
 
 Author: 
-- 'Jing-Xun Lin
-- 'David Jheng
-- 'Ying-Yu Chen
+- Jing-Xun Lin
+- David Jheng
+- Ying-Yu Chen
 
 ```
 <div align="center">
