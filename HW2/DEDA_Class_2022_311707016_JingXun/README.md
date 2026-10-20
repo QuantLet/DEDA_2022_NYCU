@@ -14,14 +14,14 @@ Description: Using web scraping to get YouBike JSON data from Taiwan government 
 Submitted: 30 Sep 2022
 
 Keywords: 
-- 'OpenStreetMap
-- 'Bike
-- 'Folium
-- 'JSON
-- 'Web Scraping
+- OpenStreetMap
+- Bike
+- Folium
+- JSON
+- Web Scraping
 
 Output: 
-- 'bike_station_map.html
+- bike_station_map.html
 
 Author: Jing-Xun Lin
 
