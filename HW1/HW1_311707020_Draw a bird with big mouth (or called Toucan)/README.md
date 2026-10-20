@@ -14,19 +14,19 @@ Description: Use complex numbers as parameters to draw a bird with big mouth (or
 Submitted: 16 Sep 2022
 
 Keywords: 
-- 'Engineering Mathematics
-- 'Complex analysis
-- 'Fourier coordinate expansion,
-- 'Fourier Transform
-- 'Python syntax to specify shapes
-- 'Complex parameters
+- Engineering Mathematics
+- Complex analysis
+- Fourier coordinate expansion,
+- Fourier Transform
+- Python syntax to specify shapes
+- Complex parameters
 
 Output: 
-- "Inyu's pet bird with big mouth (or called Toucan).png
+- Inyu's pet bird with big mouth (or called Toucan).png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Ying-Yu Chen
 
 ```
 <div align="center">
