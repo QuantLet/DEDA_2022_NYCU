@@ -14,25 +14,25 @@ Description: Exploratory analysis of data to extract the pattern of fraudulent a
 Submitted: 22 Nov 2022
 
 Keywords: 
-- 'Fraud
-- 'EDA
-- 'Money laundering
-- 'Machine learning
-- 'OLS Regression
+- Fraud
+- EDA
+- Money laundering
+- Machine learning
+- OLS Regression
 
 Output: 
-- 'corrplot.png
-- 'fraud_count.png
-- 'type_count.png
-- 'type_count_fraud.png
-- 'mean_amount_fraud.png
-- 'mean_amount_type.png
+- corrplot.png
+- fraud_count.png
+- type_count.png
+- type_count_fraud.png
+- mean_amount_fraud.png
+- mean_amount_type.png
 
 Author: 
-- 'Wolfgang Karl Härdle
-- 'Jing-Xun Lin
-- 'David Jheng
-- 'Ying-Yu Chen
+- Wolfgang Karl Härdle
+- Jing-Xun Lin
+- David Jheng
+- Ying-Yu Chen
 
 ```
 <div align="center">
