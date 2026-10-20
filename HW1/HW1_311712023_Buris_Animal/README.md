@@ -14,17 +14,17 @@ Description: Use complex numbers as parameters to fit a Animal. Creates an MP4 f
 Submitted: 28 Sep 2022
 
 Keywords: 
-- 'Complex analysis
-- 'Fourier Transform
-- 'Nodding doggy
-- 'Elephant Trunk Wiggling
-- 'Fitting Elephant
+- Complex analysis
+- Fourier Transform
+- Nodding doggy
+- Elephant Trunk Wiggling
+- Fitting Elephant
 
 Output: 
-- 'HW1_311712023_Buris_Animal.png
+- HW1_311712023_Buris_Animal.png
 
 Author: 
-- 'Buris Muangklang (Buris Muangklang)
+- Buris Muangklang (Buris Muangklang)
 
 ```
 <div align="center">
