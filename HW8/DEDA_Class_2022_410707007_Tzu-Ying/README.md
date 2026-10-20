@@ -14,21 +14,21 @@ Submitted: 20 Nov 2022
 Description: Use the Apple stock price data to predict the return by Kalman filter
 
 Keywords: 
-- 'Kalman Filter
-- 'Apple stock return
-- 'Stock price
-- 'Return
-- 'Prediction
+- Kalman Filter
+- Apple stock return
+- Stock price
+- Return
+- Prediction
 
 Datafile: AAPL.csv
 
 Output: 
-- "Observable return vs Predicted return.gif
-- "Return of APPLE- observable & predicted returns.png
-- "MSE of Different Q and R.png
+- Observable return vs Predicted return.gif
+- Return of APPLE- observable & predicted returns.png
+- MSE of Different Q and R.png
 
 Author: 
-- 'TZU-YING TUNG
+- TZU-YING TUNG
 
 ```
 <div align="center">
