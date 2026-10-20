@@ -38,7 +38,7 @@ Output:
 Submitted: 13 Dec 2022
 
 Author: 
-- 'David Alexander Behrens
+- David Alexander Behrens
 
 ```
 <div align="center">
